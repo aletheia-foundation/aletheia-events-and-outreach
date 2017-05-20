@@ -19,10 +19,10 @@ If you want to plan and run face to face events, Mozilla has a great resource fo
 ### Before the event
 
 * Print out a few copies of a one pager with relevent details so people can connect and interact with Aletheia:
- - https://github.com/aletheia-foundation
- - https://twitter.com/aletheia_f
- - https://www.facebook.com/aletheiaf/
- - any relevent hashtags like #mozsprint
+ * https://github.com/aletheia-foundation
+ * https://twitter.com/aletheia_f
+ * https://www.facebook.com/aletheiaf/
+ * any relevent hashtags like #mozsprint
 * Get stickers and pens for nametags if desired
 * Create a welcome pack if desired. Welcome packs can contain relevent event information, and further reading not Aletheia related but related to concepts Aletheia has as core principles, like decentralisation and the Open Web.
 * Get different coloured lanyards if you feel you can't remember inidivuals privacy choices or if you are running a larger event

@@ -22,7 +22,7 @@ If you want to plan and run face to face events, Mozilla has a great resource fo
   - https://github.com/aletheia-foundation
   - https://twitter.com/aletheia_f
   - https://www.facebook.com/aletheiaf/
-  - any relevent hashtags like #mozsprint
+  - any relevent hashtags like #mozsprint and #aletheian
 - Get stickers and pens for nametags if desired
 - Create a welcome pack if desired. Welcome packs can contain relevent event information, and further reading not Aletheia related but related to concepts Aletheia has as core principles, like decentralisation and the Open Web.
 - Get different coloured lanyards if you feel you can't remember inidivuals privacy choices or if you are running a larger event
@@ -34,14 +34,20 @@ If you want to plan and run face to face events, Mozilla has a great resource fo
 * Ask the venue space organiser for the wifi credentials and post them prominently
 * Greet all participants:
   - Ask them their name, and apologise for most likely forgetting it if you're not great with names
-  - Ask them to sign in, this can be on a piece of paper (in which case you will need pens) or just on a text document on a laptop.
+  - Ask them to sign in with their given name and an email address they'd like to be followed up on, this can be on a piece of paper (in which case you will need pens) or just on a text document on a laptop.
   - Give them their welcome pack if one was made
   - Ask them if they are fine with having their photo taken
 * Get everyone to write their name on a nametag if desired
 * If the contributer doesn't have a GitHub account, ask them to create one if they want and help them with this process if need be.
 * Passwords are annoying. If the user is creating a new GitHub account and they don't have a password manager, or they do have an account but just don't have a password manager, suggest that they download one and help them with setting it up if need be. Because it is opensource and easy to use, [Keepass](http://keepass.info/) is a good choice.
 * Invite the users to the [Aletheia Slack](https://aletheiafoundation.slack.com/) if they desire.
+* Encourage users to follow the Aletheia social media channels and to post on their own social media using any evetn specific hastags
+* Take photos, remembering to be mindful of the privacy choices of contributers
+* Take general notes about cool things happening, interesting goings on etc.
+* At the end of the event ask everyone to email you a brief outline of that they contributed. If contributors don't have access to email, get them to write it down if possible.
 
 ### After the event
 
 * Send out the post event survey
+* Write a thank you to everyone who attended. If this is a blanekt thank you to multiple people make sure their email is in be BCC field. 
+* Using all the notes about contribution contributors emailed you, notes you made during the event and photos you took put together a blog post running through the event.

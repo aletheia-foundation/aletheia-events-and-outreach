@@ -34,7 +34,7 @@ If you want to plan and run face to face events, Mozilla has a great resource fo
 * Ask the venue space organiser for the wifi credentials and post them prominently
 * Greet all participants:
   - Ask them their name, and apologise for most likely forgetting it if you're not great with names
-  - Ask them to sign in with their given name and an email address they'd like to be followed up on, this can be on a piece of paper (in which case you will need pens) or just on a text document on a laptop.
+  - Ask them to sign in with their given name, an email address and any social media links they'd like to be found on. This can be on a piece of paper (in which case you will need pens) or just on a text document on a laptop.
   - Give them their welcome pack if one was made
   - Ask them if they are fine with having their photo taken
 * Get everyone to write their name on a nametag if desired

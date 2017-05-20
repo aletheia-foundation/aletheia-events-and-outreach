@@ -51,4 +51,4 @@ If you want to plan and run face to face events, Mozilla has a great resource fo
 * Send out the post event survey
 * Write a thank you to everyone who attended. If this is a blanekt thank you to multiple people make sure their email is in be BCC field. 
 * Using all the notes about contribution contributors emailed you, notes you made during the event and photos you took put together a blog post running through the event.
-* Email the blog post to attendees and suggest they share on their personal social media accounts.
+* Email the blog post to attendees and suggest they share on their personal social media accounts. Invite contributors to write their own post about their experience if so desired.

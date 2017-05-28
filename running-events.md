@@ -18,7 +18,7 @@ If you want to plan and run face to face events, Mozilla has a great resource fo
 
 ### Before the event
 
-- Print out a few copies of a one pager with relevent details so people can connect and interact with Aletheia:
+- Check out our [event one pager](https://github.com/aletheia-foundation/aletheia-events-and-outreach/blob/master/useful-links.docx) and if it has everything you need on it print out a few copies. So people can connect and interact with Aletheia it should have the below details:
   - https://github.com/aletheia-foundation
   - https://twitter.com/aletheia_f
   - https://www.facebook.com/aletheiaf/

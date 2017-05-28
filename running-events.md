@@ -41,7 +41,7 @@ If you want to plan and run face to face events, Mozilla has a great resource fo
 * If the contributer doesn't have a GitHub account, ask them to create one if they want and help them with this process if need be.
 * Passwords are annoying. If the user is creating a new GitHub account and they don't have a password manager, or they do have an account but just don't have a password manager, suggest that they download one and help them with setting it up if need be. Because it is opensource and easy to use, [Keepass](http://keepass.info/) is a good choice.
 * Invite the users to the [Aletheia Slack](https://aletheiafoundation.slack.com/) if they desire.
-* Encourage users to follow the Aletheia social media channels and to post on their own social media using any evetn specific hastags
+* Encourage users to follow the Aletheia social media channels and to post on their own social media using any event specific hastags
 * Take photos, remembering to be mindful of the privacy choices of contributers
 * Take general notes about cool things happening, interesting goings on etc.
 * At the end of the event ask everyone to email you a brief outline of that they contributed. If contributors don't have access to email, get them to write it down if possible.

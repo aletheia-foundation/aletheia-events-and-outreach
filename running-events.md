@@ -30,7 +30,7 @@ If you want to plan and run face to face events, Mozilla has a great resource fo
 
 ### During the event
 
-- Post your one pager with relevent details prominently
+* Post your one pager with relevent details prominently
 * Ask the venue space organiser for the wifi credentials and post them prominently
 * Greet all participants:
   - Ask them their name, and apologise for most likely forgetting it if you're not great with names

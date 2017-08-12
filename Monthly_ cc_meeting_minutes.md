@@ -47,3 +47,20 @@ None, this is the first community meeting
 * [ ] Kade to draft up some project management documents
 * [ ] Kade to share said documents with the team
 
+## 13/08/2017 suplimentary call
+
+## Attendees
+* Kolt
+* Roo
+* Kade
+
+## Minutes from the last meeting
+* Ran through the big take awaya from yesterday as far as the test net/main net problem and how we are moving forward on it and breaking down the features for the MVP
+* Recapped on what attendees to yesterday's meeting have been working on project wise
+
+## Items discussed
+* Kolt has been working on a React branch but has since gained a lot more skill with Angular and will start working on including the Angular framework into the app.
+* Kolt previously created a mockup of the Aletheia interface, will do more work around this but Angular is his focus for now.
+
+## Action Items
+* [ ] Kolt to start working on incorporating Angular into the Aletheia app

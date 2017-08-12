@@ -22,7 +22,7 @@ None, this is the first community meeting
 * Kade gave an update on the establishment of the foundation, we are still waiting on the lawyers
 
 ## Action Items
-[ ] Kade and Roo to talk with Rob about side chains and work out a fixed cost that Kade will then sit down with Lisa with to budget
-[ ] Rob to push code for smart contracts
+* [ ] Kade and Roo to talk with Rob about side chains and work out a fixed cost that Kade will then sit down with Lisa with to budget
+* [ ] Rob to push code for smart contracts
 
 

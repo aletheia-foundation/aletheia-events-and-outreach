@@ -14,6 +14,8 @@ _**Publish science for free, access science for free.**_
 
 ## Videos
 
+[Yann-Aël demonstrates our current prototype as of Nov 5, 2017](https://www.youtube.com/watch?v=vUyjEmcVSFA)
+
 [Miguel talking at Aaron Swartz Day 2017 - Youtube](https://www.youtube.com/watch?v=sxXc7KNS6ew)
 
 [Miguel talking at Aaron Swartz Day 2017 - Archive.org](https://archive.org/details/Aletheia-AaronSwartzDay)

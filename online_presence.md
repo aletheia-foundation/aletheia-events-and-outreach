@@ -20,6 +20,10 @@ _**Publish science for free, access science for free.**_
 
 [Miguel talking at Aaron Swartz Day 2017 - Archive.org](https://archive.org/details/Aletheia-AaronSwartzDay)
 
+## Podcasts
+
+[Kade talks to Colper Science about Aletheia and the notion of praxis](http://blog.colperscience.com/2017/08/24/open-access-publishing-platform-using-the-blockchain-technology-with-kade-morton/)
+
 ## Blog posts
 
 [Lisa writes about Aletheia](http://www.wherethereislight.net/aletheia-for-osfair2017/)

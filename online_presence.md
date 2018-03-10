@@ -30,6 +30,8 @@ _**Publish science for free, access science for free.**_
 
 [Kade writes about Aletheia as part of MozSprint 2017](https://www.linkedin.com/pulse/aletheia-mozilla-global-sprint-2017-kade-morton/)
 
+[Naomi from eLife writes about Fostering Collaboration at MozFest 2017](https://medium.com/@npscience/fostering-collaboration-at-mozfest-dc5e8c9246e1)
+
 ## Aletheia has been featured
 
 [Aaron Swartz Day](https://www.aaronswartzday.org/aletheia/) 

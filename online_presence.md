@@ -24,5 +24,7 @@ _**Publish science for free, access science for free.**_
 
 [Aaron Swartz Day](https://www.aaronswartzday.org/aletheia/) 
 
-[Mozilla Pulse]()
+[Graduating from the Mozilla Open Leaders program](https://medium.com/read-write-participate/meet-our-open-leadership-grads-321a2548dc7e)
+
+[Mozilla Pulse](https://medium.com/read-write-participate/aletheia-11aebe18f490)
 

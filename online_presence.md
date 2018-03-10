@@ -24,6 +24,8 @@ _**Publish science for free, access science for free.**_
 
 [Kade talks to Colper Science about Aletheia and the notion of praxis](http://blog.colperscience.com/2017/08/24/open-access-publishing-platform-using-the-blockchain-technology-with-kade-morton/)
 
+[Kade talks to the FOMO Show about Aletheia](https://fomo.show/podcast/episode-8-aletheia-bitcoin-bans-and-blockchain-bunnies/)
+
 ## Blog posts
 
 [Lisa writes about Aletheia](http://www.wherethereislight.net/aletheia-for-osfair2017/)

@@ -44,6 +44,8 @@ _**Publish science for free, access science for free.**_
 
 [A Decentralized Publication System for Open Science using Blockchain and IPFS](https://decentralized.science/papers/PEEREWIC_2018_paper_57.pdf)
 
+[Aletheia : la blockchain contre les multinationales de la publication scientifique published by Vice France](https://www.vice.com/fr_ca/article/ywqgzk/aletheia-la-blockchain-contre-les-multinationales-de-la-publication-scientifique)
+
 ## Professional bodies
 
 [Kade is a member of Blockchain for Science](https://www.blockchainforscience.com/team/kade-morton/)
